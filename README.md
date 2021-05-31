@@ -1,4 +1,4 @@
-# neuralintents
+# neuralintent
 
 Still in a buggy alpha state.
 
